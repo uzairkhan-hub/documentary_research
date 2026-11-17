@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+*.mp4
+*.mov
+*.wav
+*.mp3
+*.mkv
+*.zip
